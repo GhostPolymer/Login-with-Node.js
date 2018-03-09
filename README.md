@@ -24,3 +24,15 @@ function onRequest(request, response) {
 //A request to 'listen' or get access to the port as per requested via .listen() variable
 http.createServer(onRequest).listen(3000);
 ```
+You can also install nodemon by opening your GIT Bash or even just CMD and navigate to the correct directory:
+
+```
+C://Users/Example/Projectfolder> npm install --save nodemon
+```
+
+nodemon is a special tool used to automatically refresh your server each time you save and make changes to your project. After you have installed nodemon just type in 
+
+```
+npm start
+```
+and you should be good to go!
