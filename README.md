@@ -5,7 +5,7 @@ A simple login application using Node.Js, Mongodb and Passport for authenticatio
 ## Just clone and run within the directory
 
 ```
-C://Users/User/Directory/ProjectDir/>node app
+cd /ProjectDir/node app
 ```
 the default port should be 3000 but it should spit out something like this
 
